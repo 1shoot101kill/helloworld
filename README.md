@@ -3,4 +3,4 @@ test
 
 this is a change
 
-this is another change
+I have delete this message
